@@ -1,15 +1,15 @@
 {
   "common": {
-    "save": "Salva",
-    "cancel": "Annulla",
-    "close": "Chiudi",
-    "add": "Aggiungi",
-    "remove": "Rimuovi",
-    "open": "Apri",
-    "browse": "Sfoglia",
-    "browseDotDotDot": "Sfoglia...",
-    "browseFolderDotDotDot": "Sfoglia cartella...",
-    "or": "o"
+    "save": "Сохранить",
+    "cancel": "Выход",
+    "close": "Закрыть",
+    "add": "Добавить",
+    "remove": "Удалить",
+    "open": "Открыть",
+    "browse": "Просмотреть",
+    "browseDotDotDot": "Просмотреть...",
+    "browseFolderDotDotDot": "Просмотреть папку...",
+    "or": "Или"
   },
   "layout": {
     "loading": "Caricamento...",
